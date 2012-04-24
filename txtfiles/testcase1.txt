@@ -1,0 +1,26 @@
+#Test Case 1 - Basic Polynomial
+#Purpose: File will executes the basic polynomial commands.
+
+#--- Polynomial 0 ---
+ADDTERM 0 1 1
+ADDTERM 0 2 2
+ADDTERM 0 3 3
+
+#--- Polynomial 1 ---
+ADDTERM 1 1 1
+ADDTERM 1 4 4
+ADDTERM 1 5 5
+
+#--- Polynomial 2 ---
+ADDTERM 2 1 1
+ADDTERM 2 5 5 
+ADDTERM 2 7 7
+
+#--- Polynomial 3 P3 = P0 + P1 ---
+ADD 3 0 1
+
+#--- Polynomial 4 P4 = P2 - P0
+SUBTRACT 4 2 0
+
+#--- Polynomial P0 x 10
+MULTIPLY 0 10

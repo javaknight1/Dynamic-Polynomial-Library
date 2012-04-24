@@ -1,0 +1,81 @@
+...main: p[0] = |0x402b398|
+...emptyPoly: poly       = |0x402b398|
+...emptyPoly: poly->term = |0x402b3d0|
+
+...main: p[1] = |0x402b4a0|
+...emptyPoly: poly       = |0x402b4a0|
+...emptyPoly: poly->term = |0x402b4d8|
+
+...main: p[2] = |0x402b5a8|
+...emptyPoly: poly       = |0x402b5a8|
+...emptyPoly: poly->term = |0x402b5e0|
+
+...main: p[3] = |0x402b6b0|
+...emptyPoly: poly       = |0x402b6b0|
+...emptyPoly: poly->term = |0x402b6e8|
+
+...main: p[4] = |0x402b7b8|
+...emptyPoly: poly       = |0x402b7b8|
+...emptyPoly: poly->term = |0x402b7f0|
+
+...main: p[5] = |0x402b8c0|
+...emptyPoly: poly       = |0x402b8c0|
+...emptyPoly: poly->term = |0x402b8f8|
+
+...main: p[6] = |0x402b9c8|
+...emptyPoly: poly       = |0x402b9c8|
+...emptyPoly: poly->term = |0x402ba00|
+
+...main: p[7] = |0x402bad0|
+...emptyPoly: poly       = |0x402bad0|
+...emptyPoly: poly->term = |0x402bb08|
+
+...freePoly: poly       = |0x402b398|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b4a0|
+...freePoly: poly->term = |0x402b4d8|
+
+...freePoly: poly       = |0x402b5a8|
+...freePoly: poly->term = |0x402b5e0|
+
+...freePoly: poly       = |0x402b6b0|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b7b8|
+...freePoly: poly->term = |0x402b7f0|
+
+...freePoly: poly       = |0x402b8c0|
+...freePoly: poly->term = |0x402b8f8|
+
+...freePoly: poly       = |0x402b9c8|
+...freePoly: poly->term = |0x402ba00|
+
+...freePoly: poly       = |0x402bad0|
+...freePoly: poly->term = |0x402bb08|
+
+CMD: ADDTERM, Poly: 0, Coeff: 2, Exp: 3
+
+POLY0: 2x^3
+
+CMD: ADDTERM, Poly: 1, Coeff: 4, Exp: 5
+POLY1: 4x^5
+
+CMD: ADD, Sum: 3, Op1: 0, Op2: 1
+POLY3: 4x^5 + 2x^3
+...freePoly: poly       = |0x402b398|
+...freePoly: poly->term = |0x402b3d0|
+...freePoly: poly       = |0x402b4a0|
+...freePoly: poly->term = |0x402b4d8|
+...freePoly: poly       = |0x402b5a8|
+...freePoly: poly->term = |0x402b5e0|
+...freePoly: poly       = |0x402b6b0|
+...freePoly: poly->term = |0x402b3d0|
+...freePoly: poly       = |0x402b7b8|
+...freePoly: poly->term = |0x402b7f0|
+...freePoly: poly       = |0x402b8c0|
+...freePoly: poly->term = |0x402b8f8|
+...freePoly: poly       = |0x402b9c8|
+...freePoly: poly->term = |0x402ba00|
+...freePoly: poly       = |0x402bad0|
+...freePoly: poly->term = |0x402bb08|

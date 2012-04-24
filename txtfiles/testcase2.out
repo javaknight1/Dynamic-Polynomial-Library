@@ -1,0 +1,96 @@
+
+CMD: ADDTERM, Poly: 0, Coeff: 1, Exp: 2
+Proj0: 1x^2
+
+CMD: ADDTERM, Poly: 1, Coeff: 3, Exp: 4
+Proj1: 3x^4
+
+CMD: ADDTERM, Poly: 2, Coeff: 5, Exp: 6
+Proj2: 5x^6
+
+CMD: ADDTERM, Poly: 3, Coeff: 7, Exp: 8
+Proj3: 7x^8
+
+CMD: ADDTERM, Poly: 4, Coeff: 9, Exp: 9
+Proj4: 9x^9
+
+CMD: ADDTERM, Poly: 5, Coeff: 10, Exp: 9
+Proj5: 10x^9
+
+CMD: ADDTERM, Poly: 6, Coeff: 7, Exp: 0
+Proj6: 7
+
+CMD: ADDTERM, Poly: 7, Coeff: 1, Exp: 1
+Proj7: 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 2, Exp: 2
+Proj7: 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 3, Exp: 3
+Proj7: 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 4, Exp: 4
+Proj7: 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 5, Exp: 5
+Proj7: 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 6, Exp: 6
+Proj7: 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 7, Exp: 7
+Proj7: 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 8, Exp: 8
+Proj7: 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 9, Exp: 9
+Proj7: 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 10, Exp: 10
+Proj7: 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 11, Exp: 11
+Proj7: 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 12, Exp: 12
+Proj7: 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 13, Exp: 13
+Proj7: 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 14, Exp: 14
+Proj7: 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 15, Exp: 15
+Proj7: 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 16, Exp: 16
+Proj7: 16x^16 + 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 17, Exp: 17
+Proj7: 17x^17 + 16x^16 + 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 18, Exp: 18
+Proj7: 18x^18 + 17x^17 + 16x^16 + 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 19, Exp: 19
+Proj7: 19x^19 + 18x^18 + 17x^17 + 16x^16 + 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 7, Coeff: 20, Exp: 20
+Proj7: 20x^20 + 19x^19 + 18x^18 + 17x^17 + 16x^16 + 15x^15 + 14x^14 + 13x^13 + 12x^12 + 11x^11 + 10x^10 + 9x^9 + 8x^8 + 7x^7 + 6x^6 + 5x^5 + 4x^4 + 3x^3 + 2x^2 + 1x
+
+CMD: ADD, Sum: 6, Op1: 0, Op2: 1
+Proj6: 3x^4 + 1x^2
+
+CMD: ADD, Sum: 6, Op1: 6, Op2: 2
+Proj6: 5x^6 + 3x^4 + 1x^2
+
+CMD: ADD, Sum: 6, Op1: 6, Op2: 3
+Proj6: 7x^8 + 5x^6 + 3x^4 + 1x^2
+
+CMD: SUBTRACT, Diff: 6, Op1: 4, Op2: 5
+Proj6: -1x^9
+
+CMD: SUBTRACT, Diff: 6, Op1: 6, Op2: 6
+Proj6: 0

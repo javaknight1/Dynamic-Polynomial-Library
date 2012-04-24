@@ -1,0 +1,56 @@
+#Test Case 2 - Stress Polynomial
+#Purpose: File will execute commands to stress limits.
+
+#--- Polynimial 0 ---
+ADDTERM 0 1 2
+
+#--- Polynimial 1 ---
+ADDTERM 1 3 4
+
+#--- Polynimial 2 ---
+ADDTERM 2 5 6
+
+#--- Polynimial 3 ---
+ADDTERM 3 7 8
+
+#--- Polynimial 4 ---
+ADDTERM 4 9 9
+
+#--- Polynimial 5 ---
+ADDTERM 5 10 9
+
+#--- Polynimial 6 (one terms, constant) ---
+ADDTERM 6 7 0
+
+#--- Polynimial 7 (20 terms) ---
+ADDTERM 7 1 1
+ADDTERM 7 2 2
+ADDTERM 7 3 3
+ADDTERM 7 4 4
+ADDTERM 7 5 5
+ADDTERM 7 6 6
+ADDTERM 7 7 7
+ADDTERM 7 8 8
+ADDTERM 7 9 9
+ADDTERM 7 10 10
+ADDTERM 7 11 11
+ADDTERM 7 12 12
+ADDTERM 7 13 13
+ADDTERM 7 14 14
+ADDTERM 7 15 15
+ADDTERM 7 16 16
+ADDTERM 7 17 17
+ADDTERM 7 18 18
+ADDTERM 7 19 19
+ADDTERM 7 20 20
+
+#--- Add P0 + P1 + P2 + P3 = P6 (overwrite)
+ADD 6 0 1
+ADD 6 6 2
+ADD 6 6 3
+
+#--- Subtract P4 - P5 = P6 (negative term)
+SUBTRACT 6 4 5
+
+#--- Subtract P6 - P6 = P6 (no terms)
+SUBTRACT 6 6 6

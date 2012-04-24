@@ -1,0 +1,116 @@
+...main: p[0] = |0x402b398|
+...emptyPoly: poly       = |0x402b398|
+...emptyPoly: poly->term = |0x402b3d0|
+
+...main: p[1] = |0x402b4a0|
+...emptyPoly: poly       = |0x402b4a0|
+...emptyPoly: poly->term = |0x402b4d8|
+
+...main: p[2] = |0x402b5a8|
+...emptyPoly: poly       = |0x402b5a8|
+...emptyPoly: poly->term = |0x402b5e0|
+
+...main: p[3] = |0x402b6b0|
+...emptyPoly: poly       = |0x402b6b0|
+...emptyPoly: poly->term = |0x402b6e8| xxx
+
+...main: p[4] = |0x402b7b8|
+...emptyPoly: poly       = |0x402b7b8|
+...emptyPoly: poly->term = |0x402b7f0| xxx
+
+...main: p[5] = |0x402b8c0|
+...emptyPoly: poly       = |0x402b8c0|
+...emptyPoly: poly->term = |0x402b8f8|
+
+...main: p[6] = |0x402b9c8|
+...emptyPoly: poly       = |0x402b9c8|
+...emptyPoly: poly->term = |0x402ba00|
+
+...main: p[7] = |0x402bad0|
+...emptyPoly: poly       = |0x402bad0|
+...emptyPoly: poly->term = |0x402bb08|
+
+-----
+
+...freePoly: poly       = |0x402b398|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b4a0|
+...freePoly: poly->term = |0x402b4d8|
+
+...freePoly: poly       = |0x402b5a8|
+...freePoly: poly->term = |0x402b5e0|
+
+...freePoly: poly       = |0x402b6b0|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b7b8|
+...freePoly: poly->term = |0x402b5e0|
+
+...freePoly: poly       = |0x402b8c0|
+...freePoly: poly->term = |0x402b8f8|
+
+...freePoly: poly       = |0x402b9c8|
+...freePoly: poly->term = |0x402ba00|
+
+...freePoly: poly       = |0x402bad0|
+...freePoly: poly->term = |0x402bb08|
+CMD: ADDTERM, Poly: 0, Coeff: 1, Exp: 1
+POLY0: 1x
+
+CMD: ADDTERM, Poly: 0, Coeff: 2, Exp: 2
+POLY0: 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 0, Coeff: 3, Exp: 3
+POLY0: 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 1, Exp: 1
+POLY1: 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 4, Exp: 4
+POLY1: 4x^4 + 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 5, Exp: 5
+POLY1: 5x^5 + 4x^4 + 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 1, Exp: 1
+POLY2: 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 5, Exp: 5
+POLY2: 5x^5 + 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 7, Exp: 7
+POLY2: 7x^7 + 5x^5 + 1x
+
+CMD: ADD, Sum: 3, Op1: 0, Op2: 1
+POLY3: 5x^5 + 4x^4 + 3x^3 + 2x^2 + 2x
+
+CMD: SUBTRACT, Diff: 4, Op1: 2, Op2: 0
+POLY4: 7x^7 - 4x^4 - 3x^3 - 1x
+
+CMD: MULTIPLY, Poly: 0, Multiplier: 10
+POLY0: 50x^5 + 40x^4 + 30x^3 + 20x^2 + 20x
+
+...freePoly: poly       = |0x402b398|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b4a0|
+...freePoly: poly->term = |0x402b4d8|
+
+...freePoly: poly       = |0x402b5a8|
+...freePoly: poly->term = |0x402b5e0|
+
+...freePoly: poly       = |0x402b6b0|
+...freePoly: poly->term = |0x402b3d0|
+
+...freePoly: poly       = |0x402b7b8|
+...freePoly: poly->term = |0x402b5e0|
+
+...freePoly: poly       = |0x402b8c0|
+...freePoly: poly->term = |0x402b8f8|
+
+...freePoly: poly       = |0x402b9c8|
+...freePoly: poly->term = |0x402ba00|
+
+...freePoly: poly       = |0x402bad0|
+...freePoly: poly->term = |0x402bb08|

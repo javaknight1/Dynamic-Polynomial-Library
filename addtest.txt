@@ -1,0 +1,5 @@
+#--- NOTHING ---
+
+ADDTERM 0 2 3
+ADDTERM 1 4 5
+ADD 3 0 1

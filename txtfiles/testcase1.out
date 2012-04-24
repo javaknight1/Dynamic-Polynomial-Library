@@ -1,0 +1,36 @@
+
+CMD: ADDTERM, Poly: 0, Coeff: 1, Exp: 1
+Proj0: 1x
+
+CMD: ADDTERM, Poly: 0, Coeff: 2, Exp: 2
+Proj0: 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 0, Coeff: 3, Exp: 3
+Proj0: 3x^3 + 2x^2 + 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 1, Exp: 1
+Proj1: 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 4, Exp: 4
+Proj1: 4x^4 + 1x
+
+CMD: ADDTERM, Poly: 1, Coeff: 5, Exp: 5
+Proj1: 5x^5 + 4x^4 + 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 1, Exp: 1
+Proj2: 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 5, Exp: 5
+Proj2: 5x^5 + 1x
+
+CMD: ADDTERM, Poly: 2, Coeff: 7, Exp: 7
+Proj2: 7x^7 + 5x^5 + 1x
+
+CMD: ADD, Sum: 3, Op1: 0, Op2: 1
+Proj3: 5x^5 + 4x^4 + 3x^3 + 2x^2 + 2x
+
+CMD: SUBTRACT, Diff: 4, Op1: 2, Op2: 0
+Proj4: 7x^7 + 5x^5 - 3x^3 - 2x^2
+
+CMD: MULTIPLY, Poly: 0, Multiplier: 10
+Proj0: 30x^3 + 20x^2 + 10x
